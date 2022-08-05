@@ -14,4 +14,9 @@
   
   <img width="361" alt="uniquetitles" src="https://user-images.githubusercontent.com/106712521/182982800-dc8eae1e-ba94-4eea-9a39-f4e9957ad211.png">
   
-  
+  The retiring_titles table shows how many employees are retirement-ready in each department. The majority of the upcomming employees who are close to retirement are from the Senior Engineer department and the Senior Staff department.
+
+<img width="164" alt="retitringtitles" src="https://user-images.githubusercontent.com/106712521/182983469-fed33b28-29bb-4fd2-a4c6-51dd45c86edd.png">
+
+In order to prepare for the "silver tsunami" this last table mentorship_eligibilty represents the retirement-ready employees who are eligible for a mentorship program. The table below shows employees who were born in the year 1965 and who are currently employed.
+
