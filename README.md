@@ -12,3 +12,6 @@
   
   The unique_titles table fixes the duplicate names by using the "DISTINCT ON" function in sql. The results show retirement-ready employees and their current postion. 
   
+  <img width="361" alt="uniquetitles" src="https://user-images.githubusercontent.com/106712521/182982800-dc8eae1e-ba94-4eea-9a39-f4e9957ad211.png">
+  
+  
