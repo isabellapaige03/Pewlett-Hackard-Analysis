@@ -20,3 +20,4 @@
 
 In order to prepare for the "silver tsunami" this last table mentorship_eligibilty represents the retirement-ready employees who are eligible for a mentorship program. The table below shows employees who were born in the year 1965 and who are currently employed.
 
+<img width="554" alt="mentor_eligibilty" src="https://user-images.githubusercontent.com/106712521/182984769-a63e0b69-0fbd-44a5-9c97-8139a298a5cb.png">
