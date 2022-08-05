@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
- Pewlett Hackard will soon be facing a "silver tsunami". This analysis wil provide information to help Pewlett Hackard prepare for the large amount of retiring employees. This analysis will determine the amount of roles needed to be filled based on the amount of retirement-ready employees. It will also determine how many retirement-ready employees are eligible to mentor new employess.
+ Pewlett Hackard will soon be facing a "silver tsunami". This analysis wil provide information to help Pewlett Hackard prepare for the large number of retiring employees. This analysis will determine the number of roles needed to be filled based on the amount of retirement-ready employees. It will also determine how many retirement-ready employees are eligible to mentor new employees.
 
 
 ## Results
@@ -10,11 +10,11 @@
   
   <img width="500" alt="retirementtitles" src="https://user-images.githubusercontent.com/106712521/182982103-30937b2a-9277-431f-aeec-46a52e7dfb69.png">
   
-  The unique_titles table fixes the duplicate names by using the "DISTINCT ON" function in sql. The results show retirement-ready employees and their current postion. 
+  The unique_titles table fixes the duplicate names by using the "DISTINCT ON" function in SQL. The results show retirement-ready employees and their current position. 
   
   <img width="361" alt="uniquetitles" src="https://user-images.githubusercontent.com/106712521/182982800-dc8eae1e-ba94-4eea-9a39-f4e9957ad211.png">
   
-  The retiring_titles table shows how many employees are retirement-ready in each department. The majority of the upcomming employees who are close to retirement are from the Senior Engineer department and the Senior Staff department.
+  The retiring_titles table shows how many employees are retirement-ready in each department. The majority of the upcoming employees who are close to retirement are from the Senior Engineer department and the Senior Staff department.
 
 <img width="164" alt="retitringtitles" src="https://user-images.githubusercontent.com/106712521/182983469-fed33b28-29bb-4fd2-a4c6-51dd45c86edd.png">
 
@@ -23,9 +23,14 @@ In order to prepare for the "silver tsunami" this last table mentorship_eligibil
 <img width="554" alt="mentor_eligibilty" src="https://user-images.githubusercontent.com/106712521/182984769-a63e0b69-0fbd-44a5-9c97-8139a298a5cb.png">
 
 ## Summary
-  Pewlett Hackard is getting hit hard by the "silver tsunami". According to the data below, the total amount of upcomming roles that need to be filled is 72,458. 
+  Pewlett Hackard is getting hit hard by the "silver tsunami". According to the data below, the total amount of upcoming roles that need to be filled is 72,458. 
   
   <img width="182" alt="count_unique" src="https://user-images.githubusercontent.com/106712521/182987159-9f992fa3-fb9b-4faa-b814-0cc7a99bee9b.png">
      
-  The amount of employees who are eligible for the mentorship program is only 1,549. There are not enough mentors for the large amount of new employees needed.
-  To prepare for future events, Pewlett Hackard should increase the age range for the mentorshiship program to increase the amount of employees who are eligible.
+  The number of employees who are eligible for the mentorship program is only 1,549. There are not enough mentors for the large number of new employees needed.
+  
+  <img width="255" alt="count_mentor" src="https://user-images.githubusercontent.com/106712521/182987363-336fa39f-1bac-492f-bb65-8deae99b3125.png">
+  
+  To prepare for future events, Pewlett Hackard should increase the age range for the mentorship program to increase the number of employees who are eligible.
+
+ 
