@@ -23,6 +23,9 @@ In order to prepare for the "silver tsunami" this last table mentorship_eligibil
 <img width="554" alt="mentor_eligibilty" src="https://user-images.githubusercontent.com/106712521/182984769-a63e0b69-0fbd-44a5-9c97-8139a298a5cb.png">
 
 ## Summary
-  Pewlett Hackard is getting hit hard by the "silver tsunami". According to the data above, the total amount of upcomming roles that need to be filled is 72,458. 
+  Pewlett Hackard is getting hit hard by the "silver tsunami". According to the data below, the total amount of upcomming roles that need to be filled is 72,458. 
+  
+  <img width="182" alt="count_unique" src="https://user-images.githubusercontent.com/106712521/182987159-9f992fa3-fb9b-4faa-b814-0cc7a99bee9b.png">
      
-  The amount of employees who are eligible for the mentorship program is only 1,549. There are not enough mentors for the large amount of new employees. To prepare for future events, Pewlett Hackard should increase the age range for the mentorshiship program to increase the amount of employees who are eligible.
+  The amount of employees who are eligible for the mentorship program is only 1,549. There are not enough mentors for the large amount of new employees needed.
+  To prepare for future events, Pewlett Hackard should increase the age range for the mentorshiship program to increase the amount of employees who are eligible.
